@@ -1,0 +1,13 @@
+.nav{
+    background-color: #eee;
+}
+.footer-bg{
+    background-color: #101d2c;
+}
+.header{
+    height: 80vh;
+
+    background-image: linear-gradient(rgba(117, 54, 130, 0.8), rgba(191, 46, 52, 0.7)), url(img/house\ 5.jpeg);
+    background-size: cover;
+    background-position: center;
+}
